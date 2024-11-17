@@ -1,4 +1,5 @@
 repeat wait() until game:IsLoaded()
+wait(8)
 local Run
 Run = function()
     setsimulationradius(math.huge,math.huge)
