@@ -1,1 +1,563 @@
-return(function(...)local Q={"HyTrgtkZ0Vv=","4jwf0ngdbpwScvGnbyU=","GVcevVcJgmwjYi==";"wKnk3DF=";"Utk8U/F=";"GVT9G582blTXY5wl";"h5BTykgh4eGRivY0b/1=","3E+XhjcqjE9YVFBDvMrr1jt2nHkHmTIalDeQFXANdGwPI3DGS9mN17AZddyPHvpKlH5RpY9WNel0iD084Hy0bZ7P23A=";"GooGftYvRep5";"rU1dvC==","p5uPYyX=";"0VuZ0Vke";"YV5Sgtb7";"NRmWElHj","KAWTJNxFYXLh","Hkffgv8yicYYieSY","UmbN4/bN4tcj4tcSUC==","jEjjHn5h";"";"tXj/2BItkRP3";"rnuLatPaAi2Je3e=";"s1fJYHiZd3yA","2E4Obp8la0O1kS0=","gtuZgy5QYp1=","YVkaYi==";"Usb74jSqHnG0YcSf","mMQV";"bmBLGtT9bLwx450n";"+jLbxE36JczA","ctkaUtcJ1lGwgtcjgtc21i==";"nppfGkGUBiFr";"p5uaYpGSgtkQ4tv=";"PR1Hc97=","xkVf+NEFziTp";"0jYyKvctdtSvLncOyi==","iVuP4n1r";"gtwjhR==","dQCwYx78dC==";"UtFr","4ykehA==","ns+rsMvfK3GZRyse++HAGxRhkt8zTgsnEQ8EJjR+9lQ9lnci4w6gG8D5ROvKCzqiDyn/tL6n5zayZnf9nQsGvU0Rjt06","GLBtvkSdckfXYrbY","yNy5F3k9EZ9EygnwBE2=";"U8LdjZI/pA==","4s1=","mLS/","YpBJ4n1=";"hZHr2OU5QRf6","gpg8YpB5vEY9bA==";"fB0gPeCskJn/46P=","cRf4pCt0XPow","CW3HnU6FvpbOgxU=","W7T/ySFfzQJR7e32AS7=","WB1AI4X=","vB3jDJY3lcyxIOJZsB2=";"dKJDdWdm3S+2ZO3CnbTJ0jUnGl7AoVdcuLczfbO9hbOsNTZhIjwo/4kzktuJ0lC=","gyTR0yb3";"v+fDQJyDIAKZhre=","Gwc3Uwc1gpYpUEGB","effg2QJo3sb3";"Qqi7ly7=";"p5u/0R==";"UmbN4/bN4tcRUmwZgA==";"dTzLyq8f92FK";"UjGjb28Lvckdin2XFC==","p5u84mGwKA==";"0VSSUC==","WZP=","45YNGk8HGLGOdy5H";"UtbS4tR=","dC==","ymUx7vYgkB1=";"vLSeglba4LG0Ft5TLVeX";"Bf+s","Gux0IbQrbJ+a","0/weYi==";"VZKB","cvG84L1=";"Umca4nYw";"j0m5","4tcZ","ZJQtV9z+Whbs9mC=","i8e1Ah1VITpPbR==";"ipgximY0y285bEBlLtl=";"4sl=";"gtkQ4tv=","HEGeUlgwgA==","gturgEB84mU=","UmkZYtua";"UnGJhyT/","4DdyMnCw2xX5rt2=","O4UeenM/VxMdk+mMrrZjeR==";"112jSjiq6i==";"HwbOL2Gw0Vu2Yi==","rHswBu/6Gsz/r7vvMfcY";"UVce4yce0pGS0m+w";"Ym+N4n1=","1cUrGGw3SR==","rDLfT/JmpzbIMQA=","Ynb50C==","IkxrJDXflrcE";"UmbN4/bN4tc84/f5gA=="}for D,r in ipairs({{-759114+759115,-302392+302494};{(((-389320-(-92716))-((-1716966-(-967058))-(-874337)))+-364015)+785049;645996-645955};{899169+-899127;(-844586-(-870705))+(-281915-(-255898))}})do while r[-612088-(-612089)]<r[955346-955344]do Q[r[752351+-752350]],Q[r[1047651+(-1727475-(-679826))]],r[-310222-(-310223)],r[-223596+(-983299+1206897)]=Q[r[-484782+(325329+159455)]],Q[r[23138+-23137]],r[-1019009+1019010]+(975447-975446),r[229665-229663]-((-129939+104734)-(-25206))end end local function D(D)return Q[D+((-1692217-(-824435))-(-898215))]end do local D={f=931071-931070,i=(746131-(-288785))-((452259+-841227)+1423868);N=(17716+-96947)+79278;Y=-952965-(-952990);s=652299-652296;j=-697517+(-933708+1631260),["/"]=1025576+-1025537;y=-2095+2117;x=(-39063-(-792358))-(907278+-153985),R=-432649-(-432697),m=-116499-(-116537),F=-830892+(-693139+1524043),["7"]=-853486+853526,["2"]=-411864+(-926053+1337953);D=420226+-420167;["3"]=(32000-(-382207+456017))+41853,g=(-834706+-70037)+904772;X=338956-338900;d=-254309+254323,k=(-776966-(905122+(-1271009-(-393575))))+(468975-(-335684)),T=521974+-521917;["0"]=(215360-(-242193))-457529;I=689042+-689011;p=1019976-1019953;b=(-1257361-(-214270+-406642))-(-636462),["5"]=-552768-(-552821);O=802350-802335;S=-625126+625159,["+"]=498814+-498765;w=-906486+906523;W=-888251-(-888314);c=-609913-(-874044+(927668-(1077851-414293))),K=(329656-884269)-(101299+(726404+(-1896618-(-514272))));P=-457861+457905;q=-168080+168091,["9"]=-377669-(-377711),t=-385386-(-385392),l=897964-897960,A=-789367-(-789367),V=833324-833270;U=653982+(-590243+-63711),v=(753507+-342867)-(-34913+(-619336+1064869)),["1"]=(-803176+(1303192-(-116686)))-((-387934+-603085)+(2564948-(433308-(-523927))));C=784816+-784784;B=459743+((182827+-898404)+255843),n=-724670-(-724725),["4"]=-987970+987997;["6"]=(-1029916+1209945)-179969;h=-909808-(-448682-(-820233+1281385)),u=-930742+(1359599-428796);Z=-505277+505323;z=-185314+185372;H=((-57034+476046)-(-270815))+-689809,Q=(((805478+-109109)+-397201)-((-416448-(-1031319))+-621217))+-305480;E=-81199-(-81206);J=-787895+787945,o=-945103+945165,G=(530175+-831069)+(1191552-890641),r=1043671+-1043620;L=-921758-(-921777),a=-998674+998719,e=((47295+738400)-((799026-838028)+((-1047411-(-759470))+1211442)))-(-98856);M=797127-(-826750+1623867),["8"]=-816195+816236}local r=table.insert local h=Q local j=string.sub local l=string.char local T=math.floor local M=type local u=string.len local G=table.concat for Q=(((-914078+1347044)-(72284+8451))+-545911)+193681,#h,(-37132+881998)-844865 do local V=h[Q]if M(V)=="string"then local M=u(V)local f={}local P=-864329-(-864330)local H=-543211-(-543211)local z=-17338-(-17338)while P<=M do local Q=j(V,P,P)local h=D[Q]if h then H=H+h*((-1497286-(-922587))+574763)^((951761-951758)-z)z=z+(37984-37983)if z==(-1013196-(-431321))-(-581879)then z=(60493+-949539)+889046 local Q=T(H/(-936271-(-71362+-930445)))local D=T((H%((-953565+940022)-(-79079)))/(433693+-433437))local h=H%(682546-682290)r(f,l(Q,D,h))H=-61161-(-61161)end elseif Q=="="then r(f,l(T(H/(971115-905579))))if P>=M or j(V,P+(-472637-(-472638)),P+(245584+-245583))~="="then r(f,l(T((H%(((-381473-(-565768))-(-554366))+-673125))/(230595-((1031543+(-471083-862651))-(-532530))))))end break end P=P+(837298+(-1552148-(-714851)))end h[Q]=G(f)end end end return(function(Q,h,j,l,T,M,u,P,G,m,a,Y,H,f,V,i,r,z,F,W,w,n)a,n,z,W,G,H,V,F,w,m,r,P,f,Y,i=function(Q,D)local h=H(D)local j=function(j)return r(Q,{j},D,h)end return j end,function(Q)V[Q]=V[Q]-(-750767-(-750768))if-869549-(-869549)==V[Q]then V[Q],G[Q]=nil,nil end end,function(Q)local D,r=752466+-752465,Q[-825500+(-293958+(-434063+(2588+1550934)))]while r do V[r],D=V[r]-(320006-(-464596+784601)),((829493+-1401262)+571770)+D if V[r]==852879-852879 then V[r],G[r]=nil,nil end r=Q[D]end end,function(Q,D)local h=H(D)local j=function(...)return r(Q,{...},D,h)end return j end,{},function(Q)for D=-74897+74898,#Q,504761+-504760 do V[Q[D]]=(-696652+696653)+V[Q[D]]end if j then local r=j(true)local h=T(r)h[D(-607053+576625)],h[D(243184-273616)],h[D(769767-800148)]=Q,z,function()return((726780+-1314193)+-807829)-(-387764)end return r else return l({},{[D(94780+-125212)]=z;[D(707925+(847202+(-300115+-1285440)))]=Q;[D(993485-1023866)]=function()return-461526+-545952 end})end end,{},function(Q,D)local h=H(D)local j=function(j,l,T,M)return r(Q,{j;l;T;M},D,h)end return j end,function(Q,D)local h=H(D)local j=function(j,l,T,M,u,G)return r(Q,{j;l,T;M,u;G},D,h)end return j end,function(Q,D)local h=H(D)local j=function(j,l)return r(Q,{j;l},D,h)end return j end,function(r,j,l,T)local K,c,v,N,b,U,R,L,H,S,P,e,E,t,W,y,s,u,J,V,C,z,O,X,o,k,q,d,B,A,Z,p,g,I while r do if r<-543383+(8286389-728769)then if r<-702037+4595049 then if r<3136704-1018436 then if r<1519691-(144764-214348)then if r<1012734+(239861-44100)then if r<-929757+1491053 then if r<778976-274048 then r=13701511-(-287248)y=588074-588073 p=I[y]C=p else S={}z=nil X=nil s=f()d=f()N=i(1042136+14891510,{s,A,R,W})G[s]=S o=D(617333+-647761)S=f()q=nil B=nil I=D(-155378+125018)G[S]=N b=nil N={}y=nil G[d]=N O=D(-14144+-16254)E={}W=n(W)N=Q[O]c=G[d]q=27006564793426-((846793+(337715-101027))-920010)K={[o]=c,[I]=y}g=nil O=N(E,K)H=O N=w(3865662-(-627605),{d;s;U,A;R;S})P=N R=n(R)B=34190680994950-(-205991)d=n(d)U=n(U)S=n(S)b=-399035+28963497773740 g=D(195180+-225551)X=P(g,q)A=n(A)g=D(85610-115977)s=n(s)R=D((-397063+-13494)-(-380145))W=H[X]X=Q[g]A=P(R,B)g=D(692083+-722472)q=H[A]A=D(-590872-(-560505))g=X[g]U=D(-563232-(-416629-116219))g=g(X,q)q=Q[A]B=P(U,b)R=H[B]X=D(-157663-(-127263))B=D(825772+-856179)B=q[B]X=g[X]A={B(q,R)}X=X(g,h(A))U=33066204157284-(-935115)A=D(435745-466122)R=818000+28814916354446 q=P(A,R)g=H[q]B=D(-485013+454676)q=796487-796485 R=P(B,U)A=H[R]R=287765-287515 z={[W]=X,[g]=q,[A]=R}R=D((-959516+1790865)+-861768)g=D(-647023+(((-1362377-(-111840))-(-508471))+1358701))B=-12236+29995657978746 q=650260+28253955508262 X=P(g,q)W=H[X]A=P(R,B)q=H[A]g=z[q]q=-36871+37121 R=D(-448096-(-417724))X=g*q z[W]=X g=D(290373+-320751)q=972662499254-(273476+(-1857569-(-158458+-598304)))B=864071+(9381187436488-730644)X=P(g,q)W=H[X]A=P(R,B)q=H[A]g=z[q]q=-703902+704152 R=32407088951558-((-1642191-(-905879))+1426276)X=g*q z[W]=X X=D(-659761-(-629386))A=D((-1640084-((651736+-1073395)+(-737621+516442)))+966835)S=-253415+19461762014364 W=Q[X]X=W()X=D(754019+-784450)W=Q[X]q=P(A,R)g=H[q]X=W(g)X=D(-361007+330576)W=Q[X]U=D(815803+-846177)R=222862+12799921658492 A=D(426609+-456960)q=P(A,R)A=D(113572-(605654+-461746))g=H[q]X=W(g)b=9861969064258-(-896686)X=D(-738340+707948)W=Q[X]X=W()X=D(((-836241-(-815875))+221287)+(866425+-1097721))W=Q[X]R=23446592794140-2250 X=W()X=D(808217-838648)W=Q[X]q=P(A,R)g=H[q]X=W(g)X=D((-342836+1319288)+-1006807)W=Q[X]X=W()W={}g=(-1013480-(-403417))+610064 B=P(U,b)b=D(-183883+(892304-738779))R=H[B]A=z[R]U=P(b,S)B=H[U]R=z[B]q=A/R A=q q=-204152+204153 R=q q=882080-882080 B=R<q r=158655+2197227 q=g-R end else B,b=A(R,B)r=B and-467811+7378847 or(3615729-841561)-(-212334)end else if r<-369896+1788982 then if r<-593178+1986690 then u=A r=R r=A and 10156394-154357 or(-690099+1336427)-(-757500)else R=D(-77119-(-46784))r=(-694069+305064)+10391042 A=Q[R]u=A end else g=nil r=4158092-(1127287-(995371+-212562))X=nil z=nil end end else if r<(848105-(-421324))-(464948+-1178066)then if r<2171061-354864 then if r<2584479-(780577-(-98795))then r=true r=r and 8451355-(478193+-318664)or-804205+7013218 else E=D(689445+-719776)b=-976791-(-627038-349754)g=q U=g-b b=-813088+813089 K=32905910153606-((-1504119-(-950294))+621729)o=(16346789874195-(-486540))-592468 g=U d=P(E,K)K=D((148976-62150)+-117219)N=H[d]s=z[N]E=P(K,o)d=H[E]N=z[d]S=s/N r=596181+((14832854-(-135663+-104072))-916324)s=S S=(1017495-(825595-(-137182)))+-54717 N=S S=469944+(833286+(-1168777-(273894-139441)))d=N<S S=b-N end else r=461768+7482506 end else if r<-218343+2304861 then v=G[P]r=v and 12046829-159336 or(-150424-(-1004765))+11947040 e=v else u=-396860+(13235008-632391)P=D(-396669-(-366326))H=10595092-(-279321)V=P^H r=u-V V=r u=D(-986278+955888)r=u/V u={r}r=Q[D((-755449+482327)+242758)]end end end else if r<168364+2845388 then if r<-522028+3045236 then if r<(-593124+603484)+2487190 then if r<-64893+2444220 then q=q+R g=q<=A U=not B g=U and g U=q>=A U=B and U g=U or g U=16447+1708817 r=g and U g=11633173-716907 r=r or g else X=G[W]r=(-761146-(-416739+396992))+(689330+5653498)u=X end else u=D(-824714-(-794346))r=Q[u]z=D(-69399-(-38993))V=G[l[993829+-993825]]H=Q[z]q=D(-798779+(-160709-(-929064)))A=a(1179551-(-923574),{})g=Q[q]q={g(A)}g=(-33619+332837)-299216 X={h(q)}W=X[g]z=H(W)H=D(-135948+105594)P=V(z,H)V={P()}u=r(h(V))V=u P=G[l[758010-758005]]u=P r=P and 4658413-(427089+(-304005-351901))or 751244+3115983 end else if r<-1017965+3766830 then r=293765+570954 A=D((763676+-1143233)-(-190895+-158275))q=Q[A]b={q(W)}A=b[174766+-174765]R=b[102066-(-46214-(-148278))]B=b[516516-(-292906-(-809419))]else A=D(-419455+(-251412-(-640512)))s=D(((378339-844962)+-401930)+(-15073-(-853231)))R=D(-87515-(503411-560495))q=Q[A]A=q()N=-446272+15380724298349 u={}o=-375390+1871420124448 q=Q[R]g=nil S=P(s,N)z=nil W=nil N=D((-1874-985338)-(-884502+-72304))b=H[S]s=Q[N]d=A-X A=nil N=s(d)K=D(299032-329458)d=P(K,o)r=Q[D(-101968-(-71635))]s=H[d]P=nil H=nil S=N..s X=nil B=b..S R=q(B)end end else if r<(1988450-(-796187))-(-981665)then if r<-583130+3941816 then if r<778698+(1600414-(-533578+((1018752-1016388)-372551)))then V=D(-813355-(-782946))u=D(-889044-(-858697))r=Q[u]u=Q[V]V=D((-122988-(-66954))+25625)Q[V]=r V=D(-840595+(-476475+1286723))Q[V]=u V=G[l[958670+-958669]]P=V()r=-674905+6371723 else u={}r=Q[D(308142+((-992176+(1581111-(-249726)))+-1177169))]end else P=D((424092+-994222)-(-68130-471647))H=-560447+6186283 V=P^H u=-926754+7099344 r=u-V u=D(1001602+-1032023)V=r r=u/V u={r}r=Q[D(202756-233113)]end else if r<710034+3118988 then r=Q[D(-241918-(-211489))]u={P}else G[l[563589-563584]]=u r=876637+4375322 V=nil end end end end else if r<5692327-559191 then if r<-530192+5076146 then if r<4335917-(-64502)then if r<4258766-(313734-318954)then if r<(-271635+97634)+4090230 then s=#b r=8514613-(-748475)N=(-446294+(101775-(-278169)))-(-66350)S=s==N else k=1015472+-1015471 J=I[k]k=false p=r y=J==k C=y r=y and 11714467-174522 or 16644908-422837 end else d=D(36438-(335066+-268219))L=D(80730+-111136)r=Q[L]N=Q[d]L=r(N)r=D(442480+-472827)Q[r]=L r=1188099-(-780674)end else if r<609+(-622791+5166752)then if r<(-263885+1197958)+3508117 then H=H+W g=not X P=H<=z P=g and P g=H>=z g=X and g P=g or P g=(15783375-(-463345))-(-423624)r=P and g P=735094+5709873 r=r or P else P=j[146161+-146159]V=j[(-473274+1274208)+-800933]r=G[l[-393019+393020]]H=r r=H[P]r=r and 8565139-884784 or 117773+15517797 end else N=D(615499+-645846)r=Q[N]N=D(-396446-(-366037))Q[N]=r r=1225647-(-743126)end end else if r<(288753+4896560)-(88010-((-250605+861987)-972142))then if r<(853525+(-1151100-329548))+(5174250-(-61206))then if r<4056741-(-510305)then r=true G[l[-82886+82887]]=r u={}r=Q[D((-166935+(630106-578740))-(-85159))]else P=G[l[-195525-(-195528)]]H=-455528+455529 V=P~=H r=V and(14208529-800627)-(-773896+1050738)or((-239548+810487)+13081722)-464357 end else u=D((815629+((57856-(-630121))+-1960416))-(-426465))r=Q[u]V=D(-964392-(-934030))u=r(V)r=Q[D(828871-859256)]u={}end else if r<(4679533-(-315012))-126167 then V=D((-988852-(-309855))+(262271+(-203690-(-590071))))H=-974125+974125 r=Q[V]P=G[l[48655+-48647]]V=r(P,H)r=6224976-(-202791)else H=G[l[149485+-149479]]r=-1000941+4868168 P=H==V u=P end end end else if r<6458842-351870 then if r<((-1459043-(-1000808))-(-415763))+5841346 then if r<5711589-100585 then if r<4780964-(-578254)then r=G[l[954390-(1689488-735105)]]r=r and 4617200-(-172650)or(-1777808-(-764617))+(7975070-(487034-(-47078)))else X=u g=D(-648824+618472)u=Q[g]g=D((-1013417+65)-(-982947))q=D(915284-945692)r=u[g]g=f()G[g]=r u=Q[q]q=D(956689+-987069)r=u[q]q=r R=r U=D(454929-485337)B=Q[U]r=B and-157601+9914823 or(686304-(-159597))+((497851+493752)+((-279195-(192821-266356))-369451))A=B end else r=true r=r and 728509+2433392 or 12474243-(-52539)end else if r<(-324819+7122752)-909341 then r=879371+4817447 else c=-495171+495172 d=f()O=D(362914+-393266)t=(-518322-33367)+561689 G[d]=e u=Q[O]O=D((713327+-1611807)-(-339104-528971))E=((878344+(193048+(-1240573-(-735228-(-720215)))))+826461)+-672193 r=u[O]O=587689-587688 u=r(O,E)K=-829964-(912347+-1742566)O=f()I=691976-691974 E=119790+-119790 G[O]=u r=G[g]u=r(E,K)E=f()G[E]=u y=D(976697+-1007103)Z=-1023389+1023389 K=(-1221713-(-376013))-(-845701)r=G[g]o=G[O]u=r(K,o)K=f()G[K]=u u=G[g]o=u(c,I)u=-186794-(-186795)r=o==u o=f()G[o]=r I=D(137176+(-849986-(-682387)))u=D(-78499-(-48145))p=Q[y]J=G[g]k={J(Z,t)}y=p(h(k))p=D(187051-217474)C=y..p r=D(-982098+951704)c=I..C I=D(-904734+((673721+248765)-48176))r=S[r]r=r(S,u,c)c=f()G[c]=r C=F(((-1606020-(-684854))+14319208)-660104,{g,d,R;H;P;s,o;c,O;K,E;A})u=Q[I]I={u(C)}r={h(I)}I=r r=G[o]r=r and 14760798-481026 or(6541124-(-821706))-(-85460)end end else if r<7231440-787867 then if r<6943136-(480728+47699)then if r<320218+5945131 then r=Y(4940368-(-872286),{z})v={r()}r=Q[D(-850815-(-820429))]u={h(v)}else H=D(248157-278565)P=Q[H]H=D(-28437+-1978)V=P[H]H=G[l[(281328-((((-1574470-(38041+-864371))+(291018-(-522123)))+(-319523-(-304581)))-(-58943)))-((-38134+702034)+-491575)]]P={V(H)}r=Q[D(818180-848605)]u={h(P)}end else r={}P=-625565+625566 H=G[l[-836342+836351]]V=r z=H H=-3937+((25282-549290)+(-325429+853375))W=H H=(501218-752786)+251568 X=W<H r=513519+3915770 H=P-W end else if r<-85885+6785690 then r=G[l[983328+-983318]]P=G[l[131772-131761]]V[r]=P r=G[l[-532388-((-218450-30065)+-283885)]]P={r(V)}r=Q[D(-262861+232511)]u={h(P)}else K=D(-286960+((-613165+-16846)-(-886625)))N=D((-384393+(-55308+53270))+356040)q=B o=-329537+19080467612610 s=Q[N]d=P(K,o)k=D(-268050-(-237701))o=37741+(-332976+20890357884352)K=D(-746756-(-716418))N=H[d]S=s[N]J=13661306175243-(753982+(160700+-1593775))d=P(K,o)y=D((-1328971-(-997080))+301532)Z=(10966465323635-(-585952))-326843 c=D(-958067-(-927715))N=H[d]o=Q[c]I=P(y,J)c=H[I]K=o[c]J=P(k,Z)y=H[J]I=z[y]Z=-56820+(((1796018-692222)-(407796+-4709))+10084197174993)J=29057037737940-(-165927)k=D((822529+-664077)+-188882)c=q/I o=K(c)c=D(39473+-69887)d=g[o]s=S(N,d)d=D(-269661+239279)K=437941+20256248202212 N=P(d,K)S=H[N]y=D(798567-828911)K=D((-623472-(-352058))+(-599039-(-840037)))d=Q[K]I=-266488+1620495917128 o=P(c,I)K=H[o]N=d[K]K=(810324+-1339963)-(910040+-1439679)I=P(y,J)c=H[I]o=z[c]c=866419+-866419 J=P(k,Z)y=H[J]I=z[y]d=N(K,o,c,I)Z=(-1032873+149906)+19074747783619 c=D(-888865+858500)s[S]=d K=51111+6536174410216 d=D(-632109-(-601687))I=179787240075-(-912480)t=19663320724121-(-1035100)N=P(d,K)S=H[N]K=D(-1043872-(-1283648-(-270192)))d=Q[K]o=P(c,I)J=D(788340-818680)c=185036+(765809-950844)K=H[o]N=d[K]k=(-782916-(368815+-367635))+(-372449+34956413258544)y=585698-585696 r=1309109-444390 K=-678274+678274 o=b[c]I=b[y]c=958235+((892725-337689)+-1513271)d=N(K,o,c,I)s[S]=d K=31860514906090-577702 d=D((-58790+-792630)-(-821021))N=P(d,K)d=D(869202+-899604)S=H[N]N=-464112+464112 b=nil K=405196+2048022460288 s[S]=N N=P(d,K)c=D(724768+-755116)K=D(640503+(-430688+-240171))S=H[N]I=20337933045369-410534 d=Q[K]o=P(c,I)K=H[o]N=d[K]y=P(J,k)I=H[y]c=z[I]k=D(-381106+350772)o=c[q]c=-723886-(-342806+(-1002927+(-443129+1064975)))K=o[c]J=P(k,Z)y=H[J]I=z[y]c=I[q]Z=D(879491+-909894)I=-599206+599208 o=c[I]k=P(Z,t)J=H[k]y=z[J]I=y[q]y=562001-561998 c=I[y]q=nil d=N(K,o,c)s[S]=d s=nil end end end end end else if r<12034355-(-489259)then if r<(11610959-916146)-((521703+-79093)+287128)then if r<8285105-(-251823+(((511747-975380)+332047)+349804))then if r<6994430-(-838629)then if r<8163243-593998 then if r<7621686-(799187-308053)then G[P]=u r=((813829+9758832)-116857)-1015429 else p=G[P]r=p and 967351-471693 or 14707501-(1041200+-322458)C=p end else r=3889140-75526 end else if r<-241475+8417751 then if r<-360055+8379903 then r=true r=r and 779157+(-500394+(14281544-677392))or-230126+3572833 else r=u and 967690+1554152 or 4986256-(-715156-(-449453))end else r=7526621-(-417653)end end else if r<-382629+9681843 then if r<8972107-(-213979)then if r<9729532-(1921941-1019691)then r=true r=-255770+6464783 else z=f()V=j P=f()g=D(-17100-13324)H=D(-1006324+975920)r=true G[P]=r u=Q[H]H=D((1082840-805173)-308046)r=u[H]H=f()G[H]=r r=F(5711018-987358,{})W=f()G[z]=r r=false G[W]=r X=Q[g]q=a((-313619+443040)+(4794957-378360),{W})g=X(q)r=g and 209853+2269992 or(-318608+5609883)-(-310154)u=g end else s=(-1325538-(-7334-608727))-((47407+71818)+(-1640574-(-811871)))N=#b S=z(s,N)r=237653+12175787 E=123059-(-410015-(-533073))s=X(b,S)N=G[U]S=nil O=s-E d=g(O)N[s]=d s=nil end else if r<9054794-(-698910)then E=n(E)c=n(c)K=n(K)d=n(d)o=n(o)r=384207+13044042 I=nil O=n(O)else b=D(-91468-(-61060))U=Q[b]r=912409-(-349984)b=D(-615038-(-584703))B=U[b]A=B end end end else if r<340437+11259523 then if r<432846+10734302 then if r<168195+10598164 then if r<-736205+(954836+9941548)then S=m(3451956-(-300501),{})B=(179981-(-134457+(1279484-(460177-268984))))+773918 A=f()G[A]=u r=G[g]R=(-428701+1222253)-793549 u=r(R,B)R=f()r=316626+-316626 G[R]=u B=r r=297628-297628 L=D((1320725-(48006-(-397809)))-905316)b=D((-419253-(-511466))+-122637)u=Q[b]U=r b={u(S)}u=170967-170965 r={h(b)}b=r r=b[u]u=D(645010+-675378)S=r r=Q[u]s=G[H]v=Q[L]L=v(S)v=D(253013-283367)e=s(L,v)s={e()}u=r(h(s))s=f()G[s]=u u=-600686+600687 e=G[R]v=e e=386446-386445 L=e e=(-1557574-(-857322))+700252 r=21340+13406909 N=L<e e=u-L else E=not O s=s+d S=s<=N S=E and S E=s>=N E=O and E S=E or S E=(378967-84271)+(821403+15399125)r=S and E S=741717+3164207 r=r or S end else B=D(-877439-(-847048))R=Q[B]r=-149159+(-869363+14061834)s=(-917481+23154237211252)-576435 o=D(662221+-692617)S=D(708752+-739169)b=P(S,s)s=(20914779988275-598547)-(231884+6033)d=D(-398001+367634)B=H[b]q=875269+-875269 S=D((937654+-1103140)-(-135116))A=R[B]b=P(S,s)B=H[b]N=Q[d]c=7857906806258-400919 K=P(o,c)d=H[K]s=N[d]K=D(712306-742648)o=978925+21370206436596 d=P(K,o)N=H[d]S=s[N]K=13053986311826-(-235269)d=D(97565-127897)N=P(d,K)s=H[N]b=S[s]R=A(B,b)g={[q]=R}R=#W N=-17617+34611840237589 q=-851592+851593 s=D(797825+(-43423-784741))S=P(s,N)b=H[S]B=z[b]A=R/B R=A A=711935-(-615326+1327260)B=A A=-792912+792912 b=B<A A=q-B end else if r<11698350-(366082-(42964+(462619+-421613)))then L=D(-162250-(-131846))q=R v=Q[L]L=D(-184833+(-880254+1034669))e=v[L]v=e(V,q)e=G[l[352307-(1364762-1012461)]]q=nil L=e()s=v+L S=s+X L=(-684200+(-311515+(2764783-865834)))-903233 s=-363026-(-363282)b=S%s s=H[P]r=12152088-490368 X=b v=X+L e=z[v]S=s..e H[P]=S else r=15956853-(-265218)k=-160337+160339 J=I[k]k=G[c]y=J==k C=y end end else if r<(-368600-(-630633))+11843572 then if r<-784796+12794804 then if r<-649135+12470368 then b=not U R=R+B q=R<=A q=b and q b=R>=A b=U and b q=b or q b=11996098-663550 r=q and b q=297546+1248366 r=r or q else v=B==U e=v r=761429+12039952 end else g=nil r=-109341+2465223 end else if r<(-981136+1994145)+11425781 then s=#b N=347852+-347852 S=s==N r=S and 124-(-523642)or 9600907-(((-12341+895807)+(-305669+((913394+-430220)+-831043)))-(-107891))else r=-460143+8570308 P=G[l[746486+-746484]]H=G[l[((279696-(-307177))+-60471)-526399]]V=P==H u=V end end end end else if r<13580274-(-1001502)then if r<14174619-(540823+332684)then if r<(-1034547-(-614559))+13460862 then if r<711766+(873551+(-594574+11805312))then if r<((778482-(-250712-(-819560)))+301850)+12160903 then u={}r=Q[D(-660380-(-630004))]else P=G[l[-457748+457749]]z=376088-376087 W=885348+-885346 H=P(z,W)P=-898111+898112 V=H==P r=V and 9023892-913727 or 12468305-(-30882)u=V end else G[P]=e r=G[P]r=r and 14642407-(-632956)or 8994868-664006 end else if r<13430249-247791 then if r<(36085-(-987465))+12102455 then S=not b A=A+B q=A<=R q=S and q S=A>=R S=b and S q=S or q S=(73230-737173)+16411303 r=q and S q=426681+2136807 r=r or q else H=708390+-708358 P=G[l[189930+(((-974624-(-918350))-(-491405))+(-671634+(680578+-634002)))]]V=P%H z=G[l[190491+(434756-625243)]]A=(-875100+338181)+(-373293-(-910214))g=G[l[(-5361+((-145061+1208671)-114000))+-944247]]S=G[l[375344+(((764138+(-357455+-165941))+-895646)+279563)]]B=-96823+(-779443-(-876279))b=S-V S=(636377+272328)+-908673 U=b/S R=B-U q=A^R X=g/q W=z(X)z=(-648896+4295637775.0)-(-405294-(-426877))H=W%z W=-709346+709348 q=-164918-(-164919)z=W^V B=((450167-881809)-(855403-419530))+(-702707+1570478)P=H/z z=G[l[521038+-521034]]V=nil r=7459790-1046702 g=P%q q=4294894723.0-(-72573)X=g*q W=z(X)z=G[l[-483033-(-483037)]]X=z(P)H=W+X g=((-375010+1505248)-413440)+-651262 W=427334-361798 z=H%W X=H-z W=X/g g=746233-745977 H=nil P=nil X=z%g A=-253797+254053 q=z-X g=q/A A=808547-808291 z=nil q=W%A R=W-q A=R/B W=nil R={X;g,q;A}g=nil X=nil A=nil G[l[89027-89026]]=R q=nil end else P=G[l[-68201-(-68204)]]H=((-731983+583219)+67338)-(-81590)V=P*H P=-85419-(-85676)u=V%P r=650721+(4361039-443748)G[l[83647-((-1032363+340995)-(883147+-1658159))]]=u end end else if r<(828188+-1155333)+14362175 then if r<(8860-404566)+(-660734+14991261)then if r<-265903+13875066 then d=not N e=e+L u=e<=v u=d and u d=e>=v d=N and d u=d or u d=((8246296-1010971)-894379)-355426 r=u and d u=2968466-(-66636-(-1043643))r=r or u else r=G[g]N=1047912-1047906 L=-194732+194733 v=r(L,N)r=D(-185926+155579)N=D(-463973-(-433626))Q[r]=v L=Q[N]N=921276-921274 r=L>N r=r and 730690+(((-856137+605067)-37405)+3879053)or 4595013-((((54033-597753)+1941698)-690240)+-658640)end else Z=-16589-(-16590)G[P]=C k=G[K]J=k+Z y=I[J]p=B+y y=41231-40975 r=p%y J=G[E]y=U+J J=471993+-471737 p=y%J B=r U=p r=(547509+(-692019+148652))+9436233 end else if r<53731+14298315 then C=G[P]r=C and-650616+(-843598+5617398)or-474799+7528973 u=C else R=n(R)X=nil X=D((-1881674-(-893479))-(-957843))g=n(g)P=n(P)A=n(A)q=nil z=n(z)q=D(-307139-(-276731))b=nil A=D(818216+-848620)S=nil B=nil b={}P=nil U=nil H=n(H)H=nil W=n(W)s=n(s)W=Q[X]X=D((1123241-452789)+-700849)z=W[X]U=f()W=f()g=D(-803675+773323)G[W]=z X=Q[g]g=D(-79582-(-49177))B={}R=f()z=X[g]g=Q[q]q=D(483074+-513489)X=g[q]q=Q[A]s=-276892+277148 A=D(-566741-(-536314))g=q[A]A=f()q=-682543-(-682543)N=s G[A]=q r=775840+9917188 q=-441699-(-381177-60524)s=748344+-748343 G[R]=q q={}G[U]=B S=51070-51069 B=-480836-(-480836)d=s s=-943836+943836 O=d<s s=S-d end end end else if r<529322+15333317 then if r<-153784+15584790 then if r<773519+14526796 then if r<(-937365+15453327)-(-236515)then S=S+N E=not d b=S<=s b=E and b E=S>=s E=d and E b=E or b E=562406+((-991929+107743)+(16797335-315030))r=b and E b=-164649+12257538 r=r or b else r=650951+13721551 end else P=G[l[((-773998+1131917)+-655283)-(-297366)]]H=(418669+594355)-1012911 V=P*H P=-400497+(444548698160-(935073-(-64043)))u=V+P V=35184372710037-(-183151+(741684+(((540755-(-39200))+-546241)+28958)))P=925114-(-483591+1408704)r=u%V G[l[91367+-91365]]=r r=-307084+13495388 V=G[l[(789199+-1014054)-(-224858)]]u=V~=P end else if r<16200755-496640 then r={}q=D((-249362+-178815)+(1031966+(-781992+147799)))W=(-560081+35184373638788)-989875 G[l[-129087+((-478960+(-697639+1878158))-(596594+-24124))]]=r g=-848290-(-848545)u=G[l[897489-(292567+604919)]]z=u u=P%W G[l[(-738033-16959)-(-754996)]]=u X=P%g g=837476+-837474 r=12448529-786809 W=X+g G[l[455038-455033]]=W g=Q[q]R=(-391052+715809)-324756 B=R q=D(-817586+787173)X=g[q]q=739778-739777 g=X(V)X=D(31564+(-760973-(-699036)))H[P]=X X=-577715-(-577779)R=939351-939351 U=B<R A=g R=q-B else s=#g N=(((-2041176-(-770378))-(-990654))-647442)-(-927587)c=-503258+5813663120406 S=s+N o=D((314086-387181)+(230418+-187743))Z=-318903+15228387808039 q=A d=D(-129810+99419)N=Q[d]K=P(o,c)y=D(-781357+750990)k=D((172488-345156)+142267)d=H[K]r=773184+(11865113-(-405015))c=(5978449326729-(-472934))-1015276 s=N[d]o=D(-390634-(-360273))K=P(o,c)q=nil d=H[K]I=Q[y]J=P(k,Z)y=H[J]k=19323745502984-(-927793+1040437)c=I[y]J=D(362130-392499)y=P(J,k)I=H[y]o=c[I]y=D(-835126-(-804743))J=30601985677984-(-645897)I=P(y,J)c=H[I]K=o[c]N=s(d,K)g[S]=N end end else if r<(564750-(-280149))+(15433285-(-135822))then if r<359657+15831374 then if r<16192323-((415334+402057)+-687973)then V=G[l[-755610+(915771+-160160)]]u=#V V=-996562+996562 r=u==V r=r and 653723+14672472 or 898403+5514685 else b=S K=-1040948-(-1040949)k=D(-77633+(504136-456844))E=b-K t=34181373269008-725026 c=-648661-(-648662)o=#W b=E K=o+c Z=-654671+20151633598238 J=P(k,Z)y=H[J]Z=D(633451-663814)I=z[y]c=b*I k=P(Z,t)J=H[k]b=nil r=-136013+(15179753-291294)y=z[J]I=g*y o={c;I}W[K]=o end else r=p r=6598590-(-455584)u=C end else if r<(411851-416392)+16564589 then S=s E=S b[S]=E S=nil r=62102+(10943045-312119)else P=H r=G[l[992312-992311]]q=614662-614662 A=501573-501318 g=r(q,A)V[P]=g P=nil r=5108456-(-363725+1042892)end end end end end end end r=#T return h(u)end,66423-66423,function()P=(-175536+175537)+P V[P]=(891351+-1368744)-(-477394)return P end,function(Q,D)local h=H(D)local j=function(j,l,T)return r(Q,{j;l,T},D,h)end return j end,function(Q,D)local h=H(D)local j=function(j,l,T,M,u)return r(Q,{j,l,T;M,u},D,h)end return j end return(W(9790728-796115,{}))(h(u))end)(getfenv and getfenv()or _ENV,unpack or table[D(-51442+21107)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Run
+Run = function()
+    setsimulationradius(math.huge,math.huge)
+
+    -- // Config \\ --
+    local Players = game:GetService("Players")
+    local LocalPlayer = Players.LocalPlayer
+    
+    local Config = {
+        Stats = {"strength","health","agility"},
+        Bosses = {"Eto Yoshimura","Headless","Kaneki","Juuzou"},
+        Raids = {"Arima","Prime Arima","Noro","Kuzen"},
+        FarRaid = {
+            ["Noro"] = true,
+        },
+        Mobs = {
+            {
+                StartLvl = 1, EndLvl = 40,
+                Mob = "Low Ranked Ghoul",
+                Quest = game:GetService("Workspace").dialogues.LowQuest.ProximityEvent,
+            },
+            {
+                StartLvl = 41, EndLvl = 80,
+                Mob = "Medium Ranked Ghoul",
+                Quest = game:GetService("Workspace").dialogues.MediumQuest.ProximityEvent
+            },
+            {
+                StartLvl = 81, EndLvl = 180,
+                Mob = "High Ranked Ghoul",
+                Quest = game:GetService("Workspace").dialogues.StrongQuest.ProximityEvent
+            },
+            {
+                StartLvl = 181, EndLvl = 300,
+                Mob = "Low Ranked Aogiri",
+                Quest = game:GetService("Workspace").dialogues.LowAogiriQuest.ProximityEvent
+            },
+            {
+                StartLvl = 301, EndLvl = 400,
+                Mob = "Medium Ranked Aogiri",
+                Quest = game:GetService("Workspace").dialogues.MediumAogiriQuest.ProximityEvent
+            },
+            {
+                StartLvl = 401, EndLvl = 500,
+                Mob = "High Ranked Aogiri",
+                Quest = game:GetService("Workspace").dialogues.HighAogiriQuest.ProximityEvent
+            },
+            {
+                StartLvl = 501, EndLvl = 700,
+                Mob = "High Ranked White Suit",
+                Quest = game:GetService("Workspace").dialogues.WhiteSuitsQuest.ProximityEvent
+            },
+            {
+                StartLvl = 701, EndLvl = 900,
+                Mob = "Cleaner",
+                Quest = game:GetService("Workspace").dialogues.VQuest.ProximityEvent
+            },
+        }
+    }
+    
+    Config.NPC = {}
+    for i,v in pairs(game:GetService("Workspace").dialogues:GetChildren()) do
+        table.insert(Config.NPC,v.Name)
+    end
+    
+    Config.Marker = {}
+    for i,v in pairs(game:GetService("Workspace").GUIMarkers:GetChildren()) do
+        table.insert(Config.Marker,v.BillboardGui.TextLabel.Text)
+    end
+    
+    -- // Modules \\ --
+    local LoopPrioritizer = (function()
+        local LoopPrioritizer = {}
+    
+        function LoopPrioritizer:Create(Table)
+            self.RenderStepped = game:GetService("RunService").RenderStepped
+            self.Priority = {}
+    
+            for i = 1,#Table do
+                LoopPrioritizer:Add(i,Table[i])
+            end
+    
+            self.Connection = self.RenderStepped:Connect(function()
+                local PassesPriority = {[0] = true}
+                for i,v in ipairs(self.Priority) do
+                    if PassesPriority[LoopPrioritizer:GetHigherPriority(i)] then
+                        local Return = LoopPrioritizer:Call(v)
+                        if Return then
+                            PassesPriority[i] = true
+                        end
+                    end
+                end
+            end)
+    
+            return self
+        end
+    
+        function LoopPrioritizer:GetHigherPriority(PriorityLevel)
+            local OldPriority
+            for i,v in ipairs(self.Priority) do
+                if i == PriorityLevel then
+                    if OldPriority then
+                        return OldPriority
+                    else
+                        return 0
+                    end
+                end
+                OldPriority = i
+            end
+        end
+    
+        function LoopPrioritizer:Add(PriorityLevel, Function)
+            self.Priority[PriorityLevel] = Function
+        end
+    
+        function LoopPrioritizer:Call(Function)
+            local Return
+            coroutine.resume(coroutine.create(function()
+                Return = Function()
+            end))
+            return Return
+        end
+    
+        return LoopPrioritizer
+    end)()
+    
+    local CHR = (function()
+        local CHR = {}
+        local NoClipParts = {}
+        local Freeze = false
+        local NoClip = false
+    
+        function CHR:TP(CFrame)
+            LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame
+        end
+    
+        function CHR:Freeze()
+            Freeze = true
+        end
+    
+        function CHR:UnFreeze()
+            Freeze = false
+        end
+    
+        function CHR:Noclip()
+            NoClip = true
+        end
+    
+        function CHR:UnNoclip()
+            NoClip = false
+        end
+    
+        game:GetService("RunService").Heartbeat:Connect(function()
+            if Freeze then
+                local HMNDRP = LocalPlayer.Character.HumanoidRootPart
+                HMNDRP.Velocity = Vector3.new(0, 0, 0)
+                HMNDRP.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                HMNDRP.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+            end
+            if NoClip then
+                for i,v in pairs(LocalPlayer.Character:GetDescendants()) do
+                    if v:IsA("BasePart") and v.CanCollide == true and v.Name ~= floatName then
+                        v.CanCollide = false
+                        if not table.find(NoClipParts, v) then
+                            table.insert(NoClipParts, v)
+                        end
+                    end
+                end
+            else
+                if #NoClipParts > 0 then
+                    for i,v in pairs(NoClipParts) do
+                        NoClipParts.CanCollide = true
+                    end
+                    table.clear(NoClipParts)
+                end
+            end
+        end)
+    
+        return CHR
+    end)()
+    
+    -- // UI Library \\ --
+    
+    local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/Library.lua'))()
+    local SaveManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/addons/SaveManager.lua'))()
+    
+    local Window = Library:CreateWindow({
+        Title = "Project Ghoul | WWz",
+        Center = true,
+        AutoShow = false,
+        TabPadding = 8
+    })
+    
+    local Tabs = {
+        ["Main"] = Window:AddTab("Main"),
+        ["Credits"] = Window:AddTab("Credits"),
+    }
+    
+    local AutoFarmGroupBox = Tabs.Main:AddLeftGroupbox('Auto Farms')
+    local SelectMethod = AutoFarmGroupBox:AddDropdown('Select Method', {
+        Values = {"Under","Above","Behind"},
+        Default = 1,
+        Multi = false,
+        Text = 'Select Method',
+    })
+    local Distance = AutoFarmGroupBox:AddSlider('MySlider', {
+        Text = 'Distance',
+        Default = 16.5,
+        Min = 3,
+        Max = 40,
+        Rounding = 1,
+        Compact = false,
+    })
+    local AutoHit = AutoFarmGroupBox:AddToggle('Auto Hit', {
+        Text = 'Auto Hit',
+        Default = true,
+    })
+    local AutoSkill = AutoFarmGroupBox:AddToggle('Auto Skill', {
+        Text = 'Auto Skill',
+        Default = true,
+    })
+    local AutoGetQuest = AutoFarmGroupBox:AddToggle('Auto Get Quest', {
+        Text = 'Auto Get Quest',
+        Default = true,
+    })
+    local FullAutoFarm = AutoFarmGroupBox:AddToggle('Full Auto Farm', {
+        Text = 'Full Auto Farm',
+        Default = false,
+        Callback = function(Value)
+            if not Value then
+                CHR:UnNoclip()
+                CHR:UnFreeze()
+            end
+        end
+    })
+    
+    local AutoBloodLabGroupBox = Tabs.Main:AddRightGroupbox('Auto Blood Lab')
+    local AutoBloodLab = AutoBloodLabGroupBox:AddToggle('Auto Blood Labb', {
+        Text = 'Auto Blood Lab',
+        Default = false,
+        Callback = function(Value)
+            if not Value then
+                CHR:UnNoclip()
+                CHR:UnFreeze()
+            end
+        end
+    })
+    local AutoReplay = AutoBloodLabGroupBox:AddToggle('Auto Replay', {
+        Text = 'Auto Replay',
+        Default = true,
+    })
+
+    local AutoRaidsGroupBox = Tabs.Main:AddRightGroupbox('Auto Raids')
+    local SelectRaids = AutoRaidsGroupBox:AddDropdown('Select Raids', {
+        Values = Config.Raids,
+        Default = 0,
+        Multi = true,
+        Text = 'Select Raids',
+    })
+    local AutoRaid = AutoRaidsGroupBox:AddToggle('Auto Raid', {
+        Text = 'Auto Raid',
+        Default = false,
+        Callback = function(Value)
+            if not Value then
+                CHR:UnNoclip()
+                CHR:UnFreeze()
+            end
+        end
+    })
+
+    local AutoBossesGroupBox = Tabs.Main:AddRightGroupbox('Auto Bosses')
+    local SelectBosses = AutoBossesGroupBox:AddDropdown('Select Bosses', {
+        Values = Config.Bosses,
+        Default = 0,
+        Multi = true,
+        Text = 'Select Bosses',
+    })
+    local AutoBosses = AutoBossesGroupBox:AddToggle('Auto Bosses', {
+        Text = 'Auto Bosses',
+        Default = false,
+        Callback = function(Value)
+            if not Value then
+                CHR:UnNoclip()
+                CHR:UnFreeze()
+            end
+        end
+    })
+    
+    local AutoStatsGroupBox = Tabs.Main:AddLeftGroupbox('Auto Stats')
+    local SelectStats = AutoStatsGroupBox:AddDropdown('Select Method', {
+        Values = Config.Stats,
+        Default = 0,
+        Multi = true,
+        Text = 'Select Stats',
+    })
+    local AutoStats = AutoStatsGroupBox:AddToggle('Auto Stats', {
+        Text = 'Auto Stats',
+        Default = false,
+    })
+    
+    local TeleportGroupBox = Tabs.Main:AddLeftGroupbox('Teleports')
+    local SelectNPC = TeleportGroupBox:AddDropdown('Select NPC', {
+        Values = Config.NPC,
+        Default = 0,
+        Multi = false,
+        Text = 'Select NPC',
+        Callback = function(Value)
+            if Value then
+                CHR:TP(game:GetService("Workspace").dialogues[Value].HumanoidRootPart.CFrame * CFrame.new(0,3,0))
+            end
+        end
+    })
+    local SelectMark = TeleportGroupBox:AddDropdown('Select Mark', {
+        Values = Config.Marker,
+        Default = 0,
+        Multi = false,
+        Text = 'Select Mark',
+        Callback = function(Value)
+            for i,v in pairs(game:GetService("Workspace").GUIMarkers:GetChildren()) do
+                if v.BillboardGui.TextLabel.Text == Value then
+                    CHR:TP(v.CFrame * CFrame.new(0,3,0))
+                    break
+                end
+            end
+        end
+    })
+    
+    SaveManager:SetLibrary(Library)
+    SaveManager:SetFolder('WWz/PG')
+    SaveManager:BuildConfigSection(Tabs.Credits)
+    SaveManager:LoadAutoloadConfig()
+    
+    -- // Run \\ --
+    queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/xN3k0x/Trash-Can/refs/heads/main/wow.lua"))
+
+    local VirtualUser = game:GetService("VirtualUser")
+    local VirtualInputManager = game:GetService("VirtualInputManager")
+    
+    local QuestDB = false
+    local WeaponDB = false
+    local SkillDB = false
+    local StatDB = false
+    local RaidDB = false
+    
+    local CurrentRaid
+    local CurrentMob
+    
+    local function Press(KeyCode)
+        VirtualInputManager:SendKeyEvent(true, KeyCode, false, nil)
+        VirtualInputManager:SendKeyEvent(false, KeyCode, false, nil)
+    end
+    
+    local function Click()
+        VirtualUser:CaptureController()
+        VirtualUser:ClickButton1(Vector2.new(0, 0))
+    end
+    
+    local function GetLevel()
+        return LocalPlayer.data.stats.level.Value
+    end
+    
+    local function EquipWeapon()
+        if not LocalPlayer.data.notSavable.weaponEquipped.Value then
+            game:GetService("ReplicatedStorage").Events.RemoteEvent:FireServer("RequestEquip")
+        end
+    end
+    
+    local function HitandSkill()
+        if AutoHit.Value and not WeaponDB then
+            WeaponDB = true; delay(0.4,function()WeaponDB = false end)
+            Click()
+        end
+        if AutoSkill.Value and not SkillDB then
+            local Level = GetLevel()
+            SkillDB = true; delay(0.7,function()SkillDB = false end)
+            Press(Enum.KeyCode.Z)
+            if (Level >= 50) then Press(Enum.KeyCode.X) end
+            if (Level >= 150) then Press(Enum.KeyCode.C) end
+        end
+    end
+    
+    local function ClickOn(X,Y)
+        mousemoveabs(X,Y)
+        task.wait()
+        mousemoveabs(X+5,Y+5)
+        task.wait()
+        mousemoveabs(X,Y)
+        mouse1click(X,Y)
+    end
+    
+    local function TPMob(Mob)
+        if SelectMethod.Value == "Under" then
+            CHR:TP(Mob.HumanoidRootPart.CFrame * CFrame.new(0,-Distance.Value,0) * CFrame.Angles(math.rad(90),0,0))
+        elseif SelectMethod.Value == "Above" then
+            CHR:TP(Mob.HumanoidRootPart.CFrame * CFrame.new(0,Distance.Value,0) * CFrame.Angles(math.rad(-90),0,0))
+        else
+            CHR:TP(Mob.HumanoidRootPart.CFrame * CFrame.new(0,0,Distance.Value))
+        end
+    end
+    
+    local function GetQuest(Data)
+        if QuestDB then return end
+        QuestDB = true; delay(0.5,function() QuestDB = false end)
+        local Level = GetLevel()
+        CHR:TP(Data.Quest.Parent.HumanoidRootPart.CFrame * CFrame.new(0,0,-2))
+        if not LocalPlayer.PlayerGui:FindFirstChild("DialogGui") then
+            Data.Quest:FireServer()
+        else
+           for i,v in ipairs(LocalPlayer.PlayerGui.DialogGui.Frame.Options:GetChildren()) do
+                if v:IsA("TextButton") and string.find(v.Text,"ACCEPT") then
+                    if isrbxactive() then
+                        local X = v.AbsolutePosition.X+(v.AbsoluteSize.X/2)
+                        local Y = v.AbsolutePosition.Y+(v.AbsoluteSize.Y/2)+80
+                        ClickOn(X,Y)
+                    end
+                    break
+                end
+            end
+        end
+    end
+    
+    local Manager = LoopPrioritizer:Create({
+        function() -- Auto Stats
+            if AutoStats.Value and not StatDB then
+                StatDB = true delay(0.2,function()StatDB = false end)
+                for i,v in pairs(SelectStats.Value) do
+                    if LocalPlayer.data.stats.points.Value <= 0 then break end
+                    game:GetService("ReplicatedStorage").Events.RemoteEvent:FireServer("spendStatPoint", {["stat"] = i,["amount"] = 1})
+                end
+            end
+            return true
+        end,
+        function() -- Auto Bosses
+            if AutoBosses.Value then
+                for i,v in pairs(SelectBosses.Value) do
+                    if game:GetService("Workspace").NPCs.Alive:FindFirstChild(i) and game:GetService("Workspace").NPCs.Alive[i].Humanoid.Health > 0 then
+                        CHR:Noclip()
+                        CHR:Freeze()
+                        EquipWeapon()
+                        TPMob(game:GetService("Workspace").NPCs.Alive[i])
+                        HitandSkill()
+                        return false
+                    end
+                end
+                return true
+            else
+                return true
+            end
+        end,
+        function() -- Auto Raid
+            if AutoRaid.Value then
+                local IsBoss = false
+                if (string.find(LocalPlayer.PlayerGui.HUD["raid_timer"].Text,"LEFT") and CurrentRaid == "Noro") or (CurrentRaid and game:GetService("Workspace").NPCs.Alive:FindFirstChild(CurrentRaid) and game:GetService("Workspace").NPCs.Alive[CurrentRaid].Humanoid.Health > 0) then
+                    CHR:Noclip()
+                    CHR:Freeze()
+                    EquipWeapon()
+                    TPMob(game:GetService("Workspace").NPCs.Alive:FindFirstChild(CurrentRaid))
+                    HitandSkill()
+                    IsBoss = true
+                else
+                    for i,v in pairs(SelectRaids.Value) do
+                        if game:GetService("Workspace").GameObjects.RaidBoss[i]:FindFirstChild("Main") then
+                            if not string.find(game:GetService("Workspace").GameObjects.RaidBoss[i].Main.BillboardGui.TextLabel.Text,"ON CD") then
+                                CurrentRaid = i
+                                CHR:TP(game:GetService("Workspace").GameObjects.RaidBoss[i].Main.CFrame * CFrame.new(0,-3,0))
+                                IsBoss = true
+                                break
+                            end
+                        else
+                            CHR:TP(game:GetService("Workspace").GUIMarkers[i].CFrame)
+                        end
+                    end
+                end
+                --print(IsBoss)
+                if not IsBoss then return true end
+            else
+                return true
+            end
+        end,
+        function() -- Auto Blood Lab
+            if AutoBloodLab.Value then
+                if not game:GetService("Workspace").BloodLaboratoryRaid:FindFirstChildOfClass("Folder") then
+                    if not game:GetService("Workspace").GameObjects:FindFirstChild("BloodLabRaid") then
+                        CHR:TP(CFrame.new(2101.161865234375,388.61224365234375,661.4117431640625))
+                    end
+                    CHR:TP(game:GetService("Workspace").GameObjects.BloodLabRaid.CFrame * CFrame.new(0,-5,0))
+                else
+                    if LocalPlayer.PlayerGui:FindFirstChild("DialogGui") then
+                        task.wait(2)
+                        if LocalPlayer.PlayerGui:FindFirstChild("DialogGui") then
+                            local Button
+                            for i,v in ipairs(LocalPlayer.PlayerGui.DialogGui.Frame.Options:GetChildren()) do
+                                if v:IsA("TextButton") then
+                                    if v.Text == "REPLAY" and AutoReplay.Value then
+                                        Button = v
+                                        break
+                                    elseif Button == nil then
+                                        Button = v
+                                    end
+                                end
+                            end
+                            local X = Button.AbsolutePosition.X+(Button.AbsoluteSize.X/2)
+                            local Y = Button.AbsolutePosition.Y+(Button.AbsoluteSize.Y/2)+80
+                            ClickOn(X,Y)
+                        end
+                    end
+                    if CurrentMob and CurrentMob:FindFirstChild("Humanoid") and CurrentMob.Humanoid.Health > 0 and CurrentMob:FindFirstChild("HumanoidRootPart") then
+                        LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                        CHR:Noclip()
+                        CHR:Freeze()
+                        EquipWeapon()
+                        TPMob(CurrentMob)
+                        HitandSkill()
+                    else
+                        for i,v in pairs(game:GetService("Workspace").NPCs.Alive:GetChildren()) do
+                            CHR:UnFreeze()
+                            if v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                                CurrentMob = v
+                                break
+                            end
+                        end
+                        LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                    end
+                end
+            else
+                return true
+            end
+        end,
+        function() -- Full Auto Farm
+            if FullAutoFarm.Value then
+                local Level = GetLevel()
+                for i,Data in ipairs(Config.Mobs) do
+                    if Data.StartLvl <= Level and Data.EndLvl >= Level then
+                        if (AutoGetQuest.Value and string.find(string.lower(LocalPlayer.data.questData.Value),string.lower(Data.Mob)) or (i == 3 and string.find(LocalPlayer.data.questData.Value,"Strong"))) or not AutoGetQuest.Value then
+                            if CurrentMob and CurrentMob:FindFirstChild("Humanoid") and CurrentMob.Humanoid.Health > 0 then
+                                CHR:Noclip()
+                                CHR:Freeze()
+                                EquipWeapon()
+                                TPMob(CurrentMob)
+                                HitandSkill()
+                            else
+                                for i,v in pairs(game:GetService("Workspace").NPCs.Alive:GetChildren()) do
+                                    if string.find(string.lower(v.VisualName.Value),string.lower(Data.Mob)) and v.Humanoid.Health > 0 then
+                                        CurrentMob = v
+                                        break
+                                    end
+                                end
+                                CHR:TP(Data.Quest.Parent.HumanoidRootPart.CFrame * CFrame.new(0,0,-2))
+                            end
+                        else
+                            GetQuest(Data)
+                        end
+            
+                        break
+                    end
+                end
+            else
+                return true
+            end
+        end,
+    })
+end
+
+Run()
