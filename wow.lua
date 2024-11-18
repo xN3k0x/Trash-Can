@@ -9,6 +9,7 @@ Run = function()
     local LocalPlayer = Players.LocalPlayer
     
     local Config = {
+        Skills = {"Z","X","C","V"},
         Stats = {"strength","health","agility"},
         Bosses = {"Eto Yoshimura","Headless","Kaneki","Juuzou"},
         Raids = {"Arima","Prime Arima","Noro","Kuzen"},
@@ -204,6 +205,12 @@ Run = function()
         Multi = false,
         Text = 'Select Method',
     })
+    local SelectSkills = AutoFarmGroupBox:AddDropdown('Select Skills', {
+        Values = Config.Skills,
+        Default = 1,
+        Multi = true,
+        Text = 'Select Skills',
+    })
     local Distance = AutoFarmGroupBox:AddSlider('MySlider', {
         Text = 'Distance',
         Default = 16.5,
@@ -342,6 +349,7 @@ Run = function()
     local SkillDB = false
     local StatDB = false
     local RaidDB = false
+    local BloodLabDB = false
     
     local CurrentRaid
     local CurrentMob
@@ -367,16 +375,15 @@ Run = function()
     end
     
     local function HitandSkill()
+        if AutoSkill.Value and not SkillDB then
+            SkillDB = true; delay(0.6,function()SkillDB = false end)
+            for i,v in pairs(SelectSkills.Value) do
+                Press(Enum.KeyCode[i])
+            end
+        end
         if AutoHit.Value and not WeaponDB then
             WeaponDB = true; delay(0.4,function()WeaponDB = false end)
             Click()
-        end
-        if AutoSkill.Value and not SkillDB then
-            local Level = GetLevel()
-            SkillDB = true; delay(0.7,function()SkillDB = false end)
-            Press(Enum.KeyCode.Z)
-            if (Level >= 50) then Press(Enum.KeyCode.X) end
-            if (Level >= 150) then Press(Enum.KeyCode.C) end
         end
     end
     
@@ -486,24 +493,22 @@ Run = function()
                     end
                     CHR:TP(game:GetService("Workspace").GameObjects.BloodLabRaid.CFrame * CFrame.new(0,-5,0))
                 else
-                    if LocalPlayer.PlayerGui:FindFirstChild("DialogGui") then
-                        task.wait(2)
-                        if LocalPlayer.PlayerGui:FindFirstChild("DialogGui") then
-                            local Button
-                            for i,v in ipairs(LocalPlayer.PlayerGui.DialogGui.Frame.Options:GetChildren()) do
-                                if v:IsA("TextButton") then
-                                    if v.Text == "REPLAY" and AutoReplay.Value then
-                                        Button = v
-                                        break
-                                    elseif Button == nil then
-                                        Button = v
-                                    end
+                    if BloodLabDB == false and LocalPlayer.PlayerGui:FindFirstChild("DialogGui") then
+                        BloodLabDB = true delay(3,function() BloodLabDB = false end)
+                        local Button
+                        for i,v in ipairs(LocalPlayer.PlayerGui.DialogGui.Frame.Options:GetChildren()) do
+                            if v:IsA("TextButton") then
+                                if v.Text == "REPLAY" and AutoReplay.Value then
+                                    Button = v
+                                    break
+                                elseif Button == nil then
+                                    Button = v
                                 end
                             end
-                            local X = Button.AbsolutePosition.X+(Button.AbsoluteSize.X/2)
-                            local Y = Button.AbsolutePosition.Y+(Button.AbsoluteSize.Y/2)+80
-                            ClickOn(X,Y)
                         end
+                        local X = Button.AbsolutePosition.X+(Button.AbsoluteSize.X/2)
+                        local Y = Button.AbsolutePosition.Y+(Button.AbsoluteSize.Y/2)+80
+                        ClickOn(X,Y)
                     end
                     if CurrentMob and CurrentMob:FindFirstChild("Humanoid") and CurrentMob.Humanoid.Health > 0 and CurrentMob:FindFirstChild("HumanoidRootPart") then
                         LocalPlayer.Character.HumanoidRootPart.Anchored = false
