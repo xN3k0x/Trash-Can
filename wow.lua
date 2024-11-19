@@ -2,6 +2,11 @@ repeat wait() until game:IsLoaded()
 wait(8)
 local Run
 Run = function()
+    game:service'Players'.LocalPlayer.Idled:connect(function()
+        game:GetService("VirtualUser"):CaptureController()
+        game:GetService("VirtualUser"):ClickButton2(Vector2.new(0, 0))
+    end)
+        
     setsimulationradius(math.huge,math.huge)
 
     -- // Config \\ --
@@ -487,7 +492,7 @@ Run = function()
         end,
         function() -- Auto Blood Lab
             if AutoBloodLab.Value then
-                if not game:GetService("Workspace").BloodLaboratoryRaid:FindFirstChildOfClass("Folder") then
+                if game:GetService("ReplicatedStorage").BloodLaboratory.Value == false then
                     if not game:GetService("Workspace").GameObjects:FindFirstChild("BloodLabRaid") then
                         CHR:TP(CFrame.new(2101.161865234375,388.61224365234375,661.4117431640625))
                     end
@@ -519,8 +524,7 @@ Run = function()
                         HitandSkill()
                     else
                         for i,v in pairs(game:GetService("Workspace").NPCs.Alive:GetChildren()) do
-                            CHR:UnFreeze()
-                            if v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                            if v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 and v:FindFirstChild("red") then
                                 CurrentMob = v
                                 break
                             end
