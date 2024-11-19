@@ -2,6 +2,7 @@ repeat wait() until game:IsLoaded()
 wait(8)
 local Run
 Run = function()
+    local IsBloodLab = game:GetService("ReplicatedStorage").BloodLaboratory.Value
     game:service'Players'.LocalPlayer.Idled:connect(function()
         game:GetService("VirtualUser"):CaptureController()
         game:GetService("VirtualUser"):ClickButton2(Vector2.new(0, 0))
@@ -318,6 +319,7 @@ Run = function()
         Multi = false,
         Text = 'Select NPC',
         Callback = function(Value)
+            if IsBloodLab then return end
             if Value then
                 CHR:TP(game:GetService("Workspace").dialogues[Value].HumanoidRootPart.CFrame * CFrame.new(0,3,0))
             end
@@ -329,6 +331,7 @@ Run = function()
         Multi = false,
         Text = 'Select Mark',
         Callback = function(Value)
+            if IsBloodLab then return end
             for i,v in pairs(game:GetService("Workspace").GUIMarkers:GetChildren()) do
                 if v.BillboardGui.TextLabel.Text == Value then
                     CHR:TP(v.CFrame * CFrame.new(0,3,0))
@@ -344,7 +347,7 @@ Run = function()
     SaveManager:LoadAutoloadConfig()
     
     -- // Run \\ --
-    queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/xN3k0x/Trash-Can/refs/heads/main/wow.lua"))
+    --queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/xN3k0x/Trash-Can/refs/heads/main/wow.lua"))
 
     local VirtualUser = game:GetService("VirtualUser")
     local VirtualInputManager = game:GetService("VirtualInputManager")
@@ -492,7 +495,7 @@ Run = function()
         end,
         function() -- Auto Blood Lab
             if AutoBloodLab.Value then
-                if game:GetService("ReplicatedStorage").BloodLaboratory.Value == false then
+                if IsBloodLab == false then
                     if not game:GetService("Workspace").GameObjects:FindFirstChild("BloodLabRaid") then
                         CHR:TP(CFrame.new(2101.161865234375,388.61224365234375,661.4117431640625))
                     end
