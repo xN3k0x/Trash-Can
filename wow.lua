@@ -247,6 +247,16 @@ Run = function()
             end
         end
     })
+    local FarmAllMobs = AutoFarmGroupBox:AddToggle('Farm All Mobs', {
+        Text = 'Farm All Mobs',
+        Default = false,
+        Callback = function(Value)
+            if not Value then
+                CHR:UnNoclip()
+                CHR:UnFreeze()
+            end
+        end
+    })
     
     local AutoBloodLabGroupBox = Tabs.Main:AddRightGroupbox('Auto Blood Lab')
     local AutoBloodLab = AutoBloodLabGroupBox:AddToggle('Auto Blood Labb', {
@@ -347,7 +357,7 @@ Run = function()
     SaveManager:LoadAutoloadConfig()
     
     -- // Run \\ --
-    --queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/xN3k0x/Trash-Can/refs/heads/main/wow.lua"))
+    queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/xN3k0x/Trash-Can/refs/heads/main/wow.lua"))
 
     local VirtualUser = game:GetService("VirtualUser")
     local VirtualInputManager = game:GetService("VirtualInputManager")
@@ -552,7 +562,7 @@ Run = function()
                                 TPMob(CurrentMob)
                                 HitandSkill()
                             else
-                                for i,v in pairs(game:GetService("Workspace").NPCs.Alive:GetChildren()) do
+                                for i,v in ipairs(game:GetService("Workspace").NPCs.Alive:GetChildren()) do
                                     if string.find(string.lower(v.VisualName.Value),string.lower(Data.Mob)) and v.Humanoid.Health > 0 then
                                         CurrentMob = v
                                         break
@@ -570,6 +580,26 @@ Run = function()
             else
                 return true
             end
+        end,
+        function() -- Farm All Mobs
+            if FarmAllMobs.Value then
+                if CurrentMob and CurrentMob:FindFirstChild("Humanoid") and CurrentMob.Humanoid.Health > 0 then
+                    CHR:Noclip()
+                    CHR:Freeze()
+                    EquipWeapon()
+                    TPMob(CurrentMob)
+                    HitandSkill()
+                else
+                    for i,v in ipairs(game:GetService("Workspace").NPCs.Alive:GetChildren()) do
+                        if v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                            CurrentMob = v 
+                            break
+                        end
+                    end
+                end
+            else
+                return true
+            end 
         end,
     })
 end
