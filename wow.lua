@@ -59,7 +59,7 @@ Run = function()
                 Quest = game:GetService("Workspace").dialogues.WhiteSuitsQuest.ProximityEvent
             },
             {
-                StartLvl = 701, EndLvl = 900,
+                StartLvl = 701, EndLvl = 1000,
                 Mob = "Cleaner",
                 Quest = game:GetService("Workspace").dialogues.VQuest.ProximityEvent
             },
